@@ -24,14 +24,6 @@ KARLA ALEXANDRA FLORES ROSAS, fecha de nacimiento: 15/02/1997, numero de documen
 NICOLAS QUISPE ZEBALLOS, fecha de nacimiento: 08/10/1990, numero de documento 71748552, tiene 1 hermanos, nicolas123@gmail.com
 PEDRO ANDRE PICASSO BETANCUR, fecha de nacimiento: 17/05/1994, numero de documento 74823157, tiene 2 hermanos, pedroandrepicasso@gmail.com
 FABIOLA MARIA PALACIO VEGA, fecha de nacimiento: 02/02/1992, numero de documento 76758254, no tiene hermanos, fabi@hotmail.com](mailto:fabi@hotmail.com
-Your users should be able to:
-
-  - View the optimal layout for the site depending on their device's screen size
-  - Shorten any valid URL
-  - See a list of their shortened links, even after refreshing the browser
-  - Copy the shortened link to their clipboard in a single click
-  - Receive an error message when the form is submitted if:
-  - The input field is empty
     
 ## Built With
 
